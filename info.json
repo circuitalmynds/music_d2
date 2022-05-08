@@ -1,5 +1,11 @@
 {
     "available_space": true,
-    "files": [],
-    "total_size": 0.0
+    "files": [
+        {
+            "name": "Brighter Than the Sun-MBEZ3uiSlAc.mp4",
+            "path": "music_d2/videos/Brighter Than the Sun-MBEZ3uiSlAc.mp4",
+            "size": 2.8812421120000002
+        }
+    ],
+    "total_size": 2.8812421120000002
 }
