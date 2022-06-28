@@ -1,41 +1,49 @@
 {
     "available_space": true,
-    "files": [
+    "content": [
         {
             "name": "conjunto primavera no le ruegues-DF5EiKNpe7s.mp4",
-            "path": "music_d2/videos/conjunto primavera no le ruegues-DF5EiKNpe7s.mp4",
-            "size": 8.646437888000001
+            "path": "d2/videos/conjunto primavera no le ruegues-DF5EiKNpe7s.mp4",
+            "size": 8.646437888000001,
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/conjunto primavera no le ruegues-DF5EiKNpe7s.mp4?raw=true"
         },
         {
             "name": "M ~ Pop Muzik 1979 Disco Purrfection Version-A4cGTzvPfvs.mp4",
-            "path": "music_d2/videos/M ~ Pop Muzik 1979 Disco Purrfection Version-A4cGTzvPfvs.mp4",
-            "size": 25.873202176000003
+            "path": "d2/videos/M ~ Pop Muzik 1979 Disco Purrfection Version-A4cGTzvPfvs.mp4",
+            "size": 25.873202176000003,
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/M ~ Pop Muzik 1979 Disco Purrfection Version-A4cGTzvPfvs.mp4?raw=true"
         },
         {
             "name": "Pretenders - Don't Get Me Wrong (Official Music Video)-qbAab1hTxN4.mp4",
-            "path": "music_d2/videos/Pretenders - Don't Get Me Wrong (Official Music Video)-qbAab1hTxN4.mp4",
-            "size": 14.178181120000001
+            "path": "d2/videos/Pretenders - Don't Get Me Wrong (Official Music Video)-qbAab1hTxN4.mp4",
+            "size": 14.178181120000001,
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Pretenders - Don't Get Me Wrong (Official Music Video)-qbAab1hTxN4.mp4?raw=true"
         },
         {
             "name": "Debussy plays Debussy - Golliwogg's Cakewalk (1913)-XMrdhgWR9Zk.mp4",
-            "path": "music_d2/videos/Debussy plays Debussy - Golliwogg's Cakewalk (1913)-XMrdhgWR9Zk.mp4",
-            "size": 5.00814336
+            "path": "d2/videos/Debussy plays Debussy - Golliwogg's Cakewalk (1913)-XMrdhgWR9Zk.mp4",
+            "size": 5.00814336,
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Debussy plays Debussy - Golliwogg's Cakewalk (1913)-XMrdhgWR9Zk.mp4?raw=true"
         },
         {
             "name": "Ken Laszlo   Hey Hey Guy-OxedhXzshUw.mp4",
-            "path": "music_d2/videos/Ken Laszlo   Hey Hey Guy-OxedhXzshUw.mp4",
-            "size": 26.548718592
+            "path": "d2/videos/Ken Laszlo   Hey Hey Guy-OxedhXzshUw.mp4",
+            "size": 26.548718592,
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Ken Laszlo   Hey Hey Guy-OxedhXzshUw.mp4?raw=true"
         },
         {
             "name": "Brighter Than the Sun-MBEZ3uiSlAc.mp4",
-            "path": "music_d2/videos/Brighter Than the Sun-MBEZ3uiSlAc.mp4",
-            "size": 2.8812421120000002
+            "path": "d2/videos/Brighter Than the Sun-MBEZ3uiSlAc.mp4",
+            "size": 2.8812421120000002,
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Brighter Than the Sun-MBEZ3uiSlAc.mp4?raw=true"
         },
         {
             "name": "conjunto primavera me nortie-10yWMBjkeHE.mp4",
-            "path": "music_d2/videos/conjunto primavera me nortie-10yWMBjkeHE.mp4",
-            "size": 5.678980096
+            "path": "d2/videos/conjunto primavera me nortie-10yWMBjkeHE.mp4",
+            "size": 5.678980096,
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/conjunto primavera me nortie-10yWMBjkeHE.mp4?raw=true"
         }
     ],
+    "ready_to_push": true,
     "total_size": 88.81490534400001
 }
