@@ -2,48 +2,55 @@
     "available_space": true,
     "content": [
         {
+            "id": "DF5EiKNpe7s",
             "name": "conjunto primavera no le ruegues-DF5EiKNpe7s.mp4",
             "path": "d2/videos/conjunto primavera no le ruegues-DF5EiKNpe7s.mp4",
-            "size": 8.646437888000001,
+            "size": 8.443787,
             "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/conjunto primavera no le ruegues-DF5EiKNpe7s.mp4?raw=true"
         },
         {
+            "id": "A4cGTzvPfvs",
             "name": "M ~ Pop Muzik 1979 Disco Purrfection Version-A4cGTzvPfvs.mp4",
             "path": "d2/videos/M ~ Pop Muzik 1979 Disco Purrfection Version-A4cGTzvPfvs.mp4",
-            "size": 25.873202176000003,
+            "size": 25.266799,
             "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/M ~ Pop Muzik 1979 Disco Purrfection Version-A4cGTzvPfvs.mp4?raw=true"
         },
         {
+            "id": "qbAab1hTxN4",
             "name": "Pretenders - Don't Get Me Wrong (Official Music Video)-qbAab1hTxN4.mp4",
             "path": "d2/videos/Pretenders - Don't Get Me Wrong (Official Music Video)-qbAab1hTxN4.mp4",
-            "size": 14.178181120000001,
+            "size": 13.84588,
             "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Pretenders - Don't Get Me Wrong (Official Music Video)-qbAab1hTxN4.mp4?raw=true"
         },
         {
+            "id": "XMrdhgWR9Zk",
             "name": "Debussy plays Debussy - Golliwogg's Cakewalk (1913)-XMrdhgWR9Zk.mp4",
             "path": "d2/videos/Debussy plays Debussy - Golliwogg's Cakewalk (1913)-XMrdhgWR9Zk.mp4",
-            "size": 5.00814336,
+            "size": 4.890765,
             "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Debussy plays Debussy - Golliwogg's Cakewalk (1913)-XMrdhgWR9Zk.mp4?raw=true"
         },
         {
+            "id": "OxedhXzshUw",
             "name": "Ken Laszlo   Hey Hey Guy-OxedhXzshUw.mp4",
             "path": "d2/videos/Ken Laszlo   Hey Hey Guy-OxedhXzshUw.mp4",
-            "size": 26.548718592,
+            "size": 25.926482999999998,
             "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Ken Laszlo   Hey Hey Guy-OxedhXzshUw.mp4?raw=true"
         },
         {
+            "id": "MBEZ3uiSlAc",
             "name": "Brighter Than the Sun-MBEZ3uiSlAc.mp4",
             "path": "d2/videos/Brighter Than the Sun-MBEZ3uiSlAc.mp4",
-            "size": 2.8812421120000002,
+            "size": 2.813713,
             "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Brighter Than the Sun-MBEZ3uiSlAc.mp4?raw=true"
         },
         {
+            "id": "10yWMBjkeHE",
             "name": "conjunto primavera me nortie-10yWMBjkeHE.mp4",
             "path": "d2/videos/conjunto primavera me nortie-10yWMBjkeHE.mp4",
-            "size": 5.678980096,
+            "size": 5.545878999999999,
             "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/conjunto primavera me nortie-10yWMBjkeHE.mp4?raw=true"
         }
     ],
     "ready_to_push": true,
-    "total_size": 88.81490534400001
+    "total_size": 86.73330600000001
 }
