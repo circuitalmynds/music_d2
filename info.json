@@ -9,6 +9,13 @@
             "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Liszt - Die V\u00e4tergruft S. 281-m_MdBR5JGQM.mp4?raw=true"
         },
         {
+            "id": "XR_24c4TxTY",
+            "name": "Keyboard Sonata No. 16 in D Major, Hob. XVI, 14 - I. Allegretto moderato-XR_24c4TxTY.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d2/videos/Keyboard Sonata No. 16 in D Major, Hob. XVI, 14 - I. Allegretto moderato-XR_24c4TxTY.mp4",
+            "size": 5.443084,
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Keyboard Sonata No. 16 in D Major, Hob. XVI, 14 - I. Allegretto moderato-XR_24c4TxTY.mp4?raw=true"
+        },
+        {
             "id": "-IvRc5Se2Xo",
             "name": "21 Girl Salute--IvRc5Se2Xo.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d2/videos/21 Girl Salute--IvRc5Se2Xo.mp4",
@@ -58,11 +65,32 @@
             "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Julius Fu\u010d\u00edk (1872-1916)  - Eleven Marches for orchestra (1899-1914), conducted by V\u00e1clav Neumann-ipTr5_hxMPs.mp4?raw=true"
         },
         {
+            "id": "ZfCJx_SjSW0",
+            "name": "Liszt - Die Loreley, S.273-ZfCJx_SjSW0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d2/videos/Liszt - Die Loreley, S.273-ZfCJx_SjSW0.mp4",
+            "size": 3.6677359999999997,
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Liszt - Die Loreley, S.273-ZfCJx_SjSW0.mp4?raw=true"
+        },
+        {
             "id": "WOZhB_qC2W4",
             "name": "Digital Emotion - Get Up Action-WOZhB_qC2W4.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d2/videos/Digital Emotion - Get Up Action-WOZhB_qC2W4.mp4",
             "size": 6.626517,
             "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Digital Emotion - Get Up Action-WOZhB_qC2W4.mp4?raw=true"
+        },
+        {
+            "id": "4qYqkAV7Xxw",
+            "name": "1935 HITS ARCHIVE - Anything Goes - Paul Whiteman (Ramona Davies, vocal)-4qYqkAV7Xxw.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d2/videos/1935 HITS ARCHIVE - Anything Goes - Paul Whiteman (Ramona Davies, vocal)-4qYqkAV7Xxw.mp4",
+            "size": 4.7110199999999995,
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/1935 HITS ARCHIVE - Anything Goes - Paul Whiteman (Ramona Davies, vocal)-4qYqkAV7Xxw.mp4?raw=true"
+        },
+        {
+            "id": "ku7UthRN2Fs",
+            "name": "Earl Hines - Greatest Hits Full Album -  Best Jazz Songs Of Earl Hines-ku7UthRN2Fs.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d2/videos/Earl Hines - Greatest Hits Full Album -  Best Jazz Songs Of Earl Hines-ku7UthRN2Fs.mp4",
+            "size": 66.502528,
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Earl Hines - Greatest Hits Full Album -  Best Jazz Songs Of Earl Hines-ku7UthRN2Fs.mp4?raw=true"
         },
         {
             "id": "8C35sdjc_cw",
@@ -91,6 +119,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/d2/videos/M ~ Pop Muzik 1979 Disco Purrfection Version-A4cGTzvPfvs.mp4",
             "size": 25.266799,
             "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/M ~ Pop Muzik 1979 Disco Purrfection Version-A4cGTzvPfvs.mp4?raw=true"
+        },
+        {
+            "id": "s17XQEd2VYY",
+            "name": "Bach - Cantata Ich bin vergnu\u0308gt BWV 84 - Bonizzoni _ Netherlands Bach Society-s17XQEd2VYY.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d2/videos/Bach - Cantata Ich bin vergnu\u0308gt BWV 84 - Bonizzoni _ Netherlands Bach Society-s17XQEd2VYY.mp4",
+            "size": 29.011535,
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Bach - Cantata Ich bin vergnu\u0308gt BWV 84 - Bonizzoni _ Netherlands Bach Society-s17XQEd2VYY.mp4?raw=true"
         },
         {
             "id": "BhfBe6TyUL8",
@@ -303,5 +338,5 @@
             "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Liszt - Im Rhein, im sch\u00f6nen Strome, S. 272-7Jp4aCyknBs.mp4?raw=true"
         }
     ],
-    "total_size": 544.9930999999998
+    "total_size": 654.329003
 }
