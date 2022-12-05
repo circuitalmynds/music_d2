@@ -2,56 +2,117 @@
     "available_space": true,
     "content": [
         {
-            "filename": "conjunto primavera no le ruegues-DF5EiKNpe7s.mp4",
+            "id": "m_MdBR5JGQM",
+            "name": "Liszt - Die V\u00e4tergruft S. 281-m_MdBR5JGQM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d2/videos/Liszt - Die V\u00e4tergruft S. 281-m_MdBR5JGQM.mp4",
+            "size": 3.893715,
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Liszt - Die V\u00e4tergruft S. 281-m_MdBR5JGQM.mp4?raw=true"
+        },
+        {
+            "id": "WtRz4H0y-ks",
+            "name": "Bamako Ska-WtRz4H0y-ks.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d2/videos/Bamako Ska-WtRz4H0y-ks.mp4",
+            "size": 8.860066,
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Bamako Ska-WtRz4H0y-ks.mp4?raw=true"
+        },
+        {
+            "id": "JXWHGLDahDk",
+            "name": "Liszt - Ave Maria-JXWHGLDahDk.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d2/videos/Liszt - Ave Maria-JXWHGLDahDk.mp4",
+            "size": 5.187389,
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Liszt - Ave Maria-JXWHGLDahDk.mp4?raw=true"
+        },
+        {
+            "id": "WOZhB_qC2W4",
+            "name": "Digital Emotion - Get Up Action-WOZhB_qC2W4.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d2/videos/Digital Emotion - Get Up Action-WOZhB_qC2W4.mp4",
+            "size": 6.626517,
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Digital Emotion - Get Up Action-WOZhB_qC2W4.mp4?raw=true"
+        },
+        {
             "id": "DF5EiKNpe7s",
+            "name": "conjunto primavera no le ruegues-DF5EiKNpe7s.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d2/videos/conjunto primavera no le ruegues-DF5EiKNpe7s.mp4",
             "size": 8.443787,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/d2/blob/main/videos/conjunto primavera no le ruegues-DF5EiKNpe7s.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/conjunto primavera no le ruegues-DF5EiKNpe7s.mp4?raw=true"
         },
         {
-            "filename": "M ~ Pop Muzik 1979 Disco Purrfection Version-A4cGTzvPfvs.mp4",
             "id": "A4cGTzvPfvs",
+            "name": "M ~ Pop Muzik 1979 Disco Purrfection Version-A4cGTzvPfvs.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d2/videos/M ~ Pop Muzik 1979 Disco Purrfection Version-A4cGTzvPfvs.mp4",
             "size": 25.266799,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/d2/blob/main/videos/M ~ Pop Muzik 1979 Disco Purrfection Version-A4cGTzvPfvs.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/M ~ Pop Muzik 1979 Disco Purrfection Version-A4cGTzvPfvs.mp4?raw=true"
         },
         {
-            "filename": "Pretenders - Don't Get Me Wrong (Official Music Video)-qbAab1hTxN4.mp4",
             "id": "qbAab1hTxN4",
+            "name": "Pretenders - Don't Get Me Wrong (Official Music Video)-qbAab1hTxN4.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d2/videos/Pretenders - Don't Get Me Wrong (Official Music Video)-qbAab1hTxN4.mp4",
             "size": 13.84588,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/d2/blob/main/videos/Pretenders - Don't Get Me Wrong (Official Music Video)-qbAab1hTxN4.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Pretenders - Don't Get Me Wrong (Official Music Video)-qbAab1hTxN4.mp4?raw=true"
         },
         {
-            "filename": "Debussy plays Debussy - Golliwogg's Cakewalk (1913)-XMrdhgWR9Zk.mp4",
             "id": "XMrdhgWR9Zk",
+            "name": "Debussy plays Debussy - Golliwogg's Cakewalk (1913)-XMrdhgWR9Zk.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d2/videos/Debussy plays Debussy - Golliwogg's Cakewalk (1913)-XMrdhgWR9Zk.mp4",
             "size": 4.890765,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/d2/blob/main/videos/Debussy plays Debussy - Golliwogg's Cakewalk (1913)-XMrdhgWR9Zk.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Debussy plays Debussy - Golliwogg's Cakewalk (1913)-XMrdhgWR9Zk.mp4?raw=true"
         },
         {
-            "filename": "Ken Laszlo   Hey Hey Guy-OxedhXzshUw.mp4",
+            "id": "QN-nlexKaaA",
+            "name": "Liszt - 12 Etudes d'ex\u00e9cution transcendante, S. 139 - No. 7 Eroica (Allegro)-QN-nlexKaaA.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d2/videos/Liszt - 12 Etudes d'ex\u00e9cution transcendante, S. 139 - No. 7 Eroica (Allegro)-QN-nlexKaaA.mp4",
+            "size": 3.30213,
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Liszt - 12 Etudes d'ex\u00e9cution transcendante, S. 139 - No. 7 Eroica (Allegro)-QN-nlexKaaA.mp4?raw=true"
+        },
+        {
             "id": "OxedhXzshUw",
+            "name": "Ken Laszlo   Hey Hey Guy-OxedhXzshUw.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d2/videos/Ken Laszlo   Hey Hey Guy-OxedhXzshUw.mp4",
             "size": 25.926482999999998,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/d2/blob/main/videos/Ken Laszlo   Hey Hey Guy-OxedhXzshUw.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Ken Laszlo   Hey Hey Guy-OxedhXzshUw.mp4?raw=true"
         },
         {
-            "filename": "Brighter Than the Sun-MBEZ3uiSlAc.mp4",
+            "id": "CMQjZIaKBpQ",
+            "name": "P.Lion Happy Children - Official Video incl. Lyrics-CMQjZIaKBpQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d2/videos/P.Lion Happy Children - Official Video incl. Lyrics-CMQjZIaKBpQ.mp4",
+            "size": 17.998736,
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/P.Lion Happy Children - Official Video incl. Lyrics-CMQjZIaKBpQ.mp4?raw=true"
+        },
+        {
+            "id": "5Fppp8YJ80I",
+            "name": "Count Basie-Easin It-5Fppp8YJ80I.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d2/videos/Count Basie-Easin It-5Fppp8YJ80I.mp4",
+            "size": 19.172597,
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Count Basie-Easin It-5Fppp8YJ80I.mp4?raw=true"
+        },
+        {
+            "id": "jQqXJznb24E",
+            "name": "Robert Parkers A to Z of Jazz Radio Program p25 W-jQqXJznb24E.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d2/videos/Robert Parkers A to Z of Jazz Radio Program p25 W-jQqXJznb24E.mp4",
+            "size": 41.901835,
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Robert Parkers A to Z of Jazz Radio Program p25 W-jQqXJznb24E.mp4?raw=true"
+        },
+        {
             "id": "MBEZ3uiSlAc",
+            "name": "Brighter Than the Sun-MBEZ3uiSlAc.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d2/videos/Brighter Than the Sun-MBEZ3uiSlAc.mp4",
             "size": 2.813713,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/d2/blob/main/videos/Brighter Than the Sun-MBEZ3uiSlAc.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Brighter Than the Sun-MBEZ3uiSlAc.mp4?raw=true"
         },
         {
-            "filename": "conjunto primavera me nortie-10yWMBjkeHE.mp4",
             "id": "10yWMBjkeHE",
+            "name": "conjunto primavera me nortie-10yWMBjkeHE.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d2/videos/conjunto primavera me nortie-10yWMBjkeHE.mp4",
             "size": 5.545878999999999,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/d2/blob/main/videos/conjunto primavera me nortie-10yWMBjkeHE.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/conjunto primavera me nortie-10yWMBjkeHE.mp4?raw=true"
+        },
+        {
+            "id": "InVMShaKKf8",
+            "name": "Sonata No. 1 in E flat major (Sonate en mi b\u00e9mol majeur no 1. Scene dans le Stile path\u00e9tique)...-InVMShaKKf8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d2/videos/Sonata No. 1 in E flat major (Sonate en mi b\u00e9mol majeur no 1. Scene dans le Stile path\u00e9tique)...-InVMShaKKf8.mp4",
+            "size": 3.1452929999999997,
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Sonata No. 1 in E flat major (Sonate en mi b\u00e9mol majeur no 1. Scene dans le Stile path\u00e9tique)...-InVMShaKKf8.mp4?raw=true"
         }
     ],
-    "lastupdate": "Mon Nov 21 01:06:54 2022",
-    "ready_to_push": true,
-    "total_size": 86.73330600000001
+    "total_size": 196.821584
 }
