@@ -51,6 +51,13 @@
             "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/From so Far Away-5kz3no8KYkU.mp4?raw=true"
         },
         {
+            "id": "DF5EiKNpe7s",
+            "name": "No Le Ruegues-DF5EiKNpe7s.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d2/videos/No Le Ruegues-DF5EiKNpe7s.mp4",
+            "size": 2.331216,
+            "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/No Le Ruegues-DF5EiKNpe7s.mp4?raw=true"
+        },
+        {
             "id": "p7do-9kJNE8",
             "name": "Keyboard Sonata No. 15 in E Major, Hob. XVI, 13 - II. Menuet-p7do-9kJNE8.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d2/videos/Keyboard Sonata No. 15 in E Major, Hob. XVI, 13 - II. Menuet-p7do-9kJNE8.mp4",
@@ -478,5 +485,5 @@
             "url": "https://github.com/circuitalmynds/music_d2/blob/main/videos/Liszt - Im Rhein, im schönen Strome, S. 272-7Jp4aCyknBs.mp4?raw=true"
         }
     ],
-    "total_size": 979.6025579999999
+    "total_size": 981.933774
 }
